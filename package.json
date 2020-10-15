@@ -1,7 +1,7 @@
 {
   "author": "Ramon Elias Cerrada Montoya <email.ramonelias@gmail.com>",
   "license": "MIT",
-  "name": "restify-services",
+  "name": "stores-nodemongo-service",
   "version": "1.0.0",
   "description": "rest service",
   "main": "index.js",
